@@ -351,15 +351,6 @@ Update this checklist as development progresses.
 
 ---
 
-## 📄 License
-
-Choose a licence before making the repository public.
-
-If you want others to reuse and modify your code, an open-source licence such as the MIT License is a common option.
-
-If you are not ready to grant reuse rights, do not add a permissive licence yet. Check your institution and hackathon rules before publishing.
-
----
 
 **ORCA — Connecting marine observations for clearer, more informed ocean decisions.**
 
